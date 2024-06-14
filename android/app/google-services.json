@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010282388286",
+    "project_id": "vircloset",
+    "storage_bucket": "vircloset.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010282388286:android:cd06f12034b93d678eea6f",
+        "android_client_info": {
+          "package_name": "clave.armario.vircloset"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK3ICx6AxkuGa6wvsc4mDZv-_PEXYRHoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
